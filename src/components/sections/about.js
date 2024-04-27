@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Unity (C#)', 'Python', 'Unreal 5', 'JavaScript', 'WordPress', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Jadyn and I enjoy creating things that live on the internet. My
+              interest in game development started back in 2018 when I first participated in the
+              Global Game Jam and developed 2 games within 48 hours — turns out jaming together
+              games taught me a lot about Programming &amp; Game Design!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.cngal.org/entries/index/4967">a start-up studio</a>,{' '}
+              <a href="https://www.taptap.cn/app/69247">an indie game studio</a>,{' '}
+              <a href="https://www.amd.com/en.html">a huge corporation</a>, and{' '}
+              <a href="http://www.kid-game.cn/">a famous visual novel studio</a>. My main focus
+              these days is building accessible, inclusive educational game product at
+              <a href="https://apps.apple.com/ca/app/%E9%87%8D%E5%90%AF%E9%9D%92%E6%98%A5/id6449725179">
+                Chong Qi Qing Chun
+              </a>{' '}
+              for primary and secondary students.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also work as a part-time STEM teacher at <a href="https://www.viaschool.ca/">VIA</a>{' '}
+              and <a href="https://inteledu.ca/en/home.html">IIE</a> that covers everything in
+              Mathematics, Statistics, Physics, and Computer Science in AP courses and OSSD
+              curriculum.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
