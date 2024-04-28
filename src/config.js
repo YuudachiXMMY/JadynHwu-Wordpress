@@ -18,10 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/hairong-wu/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
+    {
+      name: 'Codepen',
+      url: 'https://globalgamejam.org/users/wu-hairong',
+    },
   ],
 
   navLinks: [

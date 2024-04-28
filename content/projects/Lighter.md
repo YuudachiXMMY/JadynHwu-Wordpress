@@ -11,4 +11,4 @@ company: 'Yuki Game'
 showInProjects: true
 ---
 
-A visual novel adventure game published on Steam.
+A visual novel adventure game published on [Steam](https://store.steampowered.com/app/992700/Lighter/).

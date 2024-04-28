@@ -9,8 +9,9 @@ tech:
   - GPU Validation
   - CI/CD
   - Jenkins
-company: 'Advanced Micro Devices Inc.'
+company: 'PyPI'
 showInProjects: true
 ---
 
-An Automation Tool for Benchmarking Automation, published on PyPI.
+An Automation Tool for Benchmarking Automation, published on [PyPI](https://pypi.org/project/bmautomation/).
+Developed and improved from [BenchMark-Automation](https://github.com/YuudachiXMMY/BenchMark-Automation).

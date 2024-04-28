@@ -77,13 +77,16 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/YuudachiXMMY/JadynWu')
       .then(response => response.json())
       .then(json => {
-        const { stargazers_count, forks_count } = json;
+        json; //empty
+        // const { stargazers_count, forks_count } = json;
         setGitHubInfo({
-          stars: stargazers_count,
-          forks: forks_count,
+          stars: 114,
+          forks: 514,
+          // stars: stargazers_count,
+          // forks: forks_count,
         });
       })
       .catch(e => console.error(e));
@@ -105,11 +108,16 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Redesigned &amp; Hosted by Jadyn Wu</div>
+        <a href="https://github.com/YuudachiXMMY">
           <div>
-            Designed &amp; Built by <span href="https://github.com/bchiang7">Brittany Chiang</span>
+            Built &amp; Designed by <span href="https://github.com/bchiang7">Brittany Chiang</span>
           </div>
+          <div>
+            Built with <span href="https://www.gatsbyjs.com/">Gatsby</span> &amp; Hosted with{' '}
+            <span href="https://www.netlify.com/">Netlify</span> by{' '}
+            <span href="https://github.com/YuudachiXMMY">Jadyn Wu</span>
+          </div>
+          <div>&copy; Copyright 2024 HTML.am</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

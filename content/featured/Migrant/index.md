@@ -7,6 +7,7 @@ external: 'https://store.steampowered.com/app/1765350/_/'
 tech:
   - Ren'Py
   - Python
+  - SteamSDK
 cta: 'http://www.kid-game.cn/?page_id=26'
 ---
 

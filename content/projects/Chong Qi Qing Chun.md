@@ -1,5 +1,5 @@
 ---
-date: '2020-02-01'
+date: '2023-05-01'
 title: 'Chong Qi Qing Chun'
 github: 'https://github.com/YuudachiXMMY/Stalker-by-UWNBoundless-GGJ2020'
 external: 'https://store.steampowered.com/app/1243580/Stalker/'

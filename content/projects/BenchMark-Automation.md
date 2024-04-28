@@ -13,4 +13,4 @@ company: 'Advanced Micro Devices Inc.'
 showInProjects: true
 ---
 
-A Python Automation for Graphic Testing on Games and Office.
+A Python Automation for Grapics Testing on Games and Office.

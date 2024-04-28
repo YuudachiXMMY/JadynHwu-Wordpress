@@ -10,8 +10,10 @@ tech:
   - Ren'Py
   - Python
   - SteamSDK
-company: 'NetBit @UW'
+company: 'Global Gam Jam 2020'
 showInProjects: true
 ---
 
-An adventure game published on Steam.
+An adventure game published on [Steam](https://store.steampowered.com/app/1243580/Stalker/),
+made within 48 hours of [Global Game Jam 2020](https://v3.globalgamejam.org/2022/games) with theme "Repair".
+Your decisions with each scenario will lead to various endings.
