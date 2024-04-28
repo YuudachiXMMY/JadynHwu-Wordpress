@@ -144,7 +144,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.cngal.org/entries/index/4967">a start-up studio</a>,{' '}
-              <a href="https://www.taptap.cn/app/69247">an indie game studio</a>,{' '}
+              <a href="https://www.taptap.cn/app/69247">an inclusive game studio</a>,{' '}
               <a href="https://www.amd.com/en.html">a huge corporation</a>, and{' '}
               <a href="http://www.kid-game.cn/">a famous visual novel studio</a>. My main focus
               these days is building accessible, inclusive educational game product at
