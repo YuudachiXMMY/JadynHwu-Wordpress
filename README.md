@@ -63,6 +63,8 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    rm -rf node_modules
    yarn cache clean
    yarn install --ignore-engines
+
+   npm install
    ```
 
    ```sh
