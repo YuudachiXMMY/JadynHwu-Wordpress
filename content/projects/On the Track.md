@@ -4,8 +4,7 @@ title: 'On the Track'
 github: ''
 external: 'https://v3.globalgamejam.org/2019/games/track'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Adobe Photoshop
   - Adobe Audition
 company: 'Global Gam Jam 2019'

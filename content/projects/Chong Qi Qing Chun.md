@@ -5,8 +5,7 @@ github: 'https://github.com/YuudachiXMMY/Stalker-by-UWNBoundless-GGJ2020'
 external: 'https://store.steampowered.com/app/1243580/Stalker/'
 ios: 'https://apps.apple.com/us/app/%E9%87%8D%E5%90%AF%E9%9D%92%E6%98%A5/id6449725179'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Ren'Py
   - Python
   - JavaScript

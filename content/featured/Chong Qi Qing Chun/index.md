@@ -5,11 +5,11 @@ cover: './game_menu.png'
 github: 'https://github.com/YuudachiXMMY/ReSeiSyun'
 external: 'https://apps.apple.com/us/app/%E9%87%8D%E5%90%AF%E9%9D%92%E6%98%A5/id6449725179'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Ren'Py
   - Python
-  - JavaScript
+  - MySQL
+  - System Design
 cta: ''
 ---
 

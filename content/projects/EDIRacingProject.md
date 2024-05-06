@@ -4,8 +4,7 @@ title: 'EDI Racing Project'
 github: 'https://github.com/YuudachiXMMY/EDI-Racing-Project/'
 external: 'https://github.com/YuudachiXMMY/EDI-Racing-Project/releases/latest'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Python
   - Autodesk 3ds Max
 company: ''

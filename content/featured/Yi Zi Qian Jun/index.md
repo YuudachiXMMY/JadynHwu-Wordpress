@@ -5,11 +5,11 @@ cover: './cover.png'
 github: 'https://github.com/YuudachiXMMY/YiZiQianJun'
 external: 'https://avg.163.com/game/detail/3325'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - JavaScript
   - HTML/CSS
   - Python
+  - MySQL
 cta: 'https://avg.163.com/game/detail/3325'
 ---
 

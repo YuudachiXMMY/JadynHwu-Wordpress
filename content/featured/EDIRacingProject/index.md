@@ -5,9 +5,9 @@ cover: './edi_racing_project_cover.png'
 github: 'https://github.com/YuudachiXMMY/EDI-Racing-Project/'
 external: 'https://github.com/YuudachiXMMY/EDI-Racing-Project/releases/latest'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Python
+  - MySQL
   - Autodesk 3ds Max
 ---
 

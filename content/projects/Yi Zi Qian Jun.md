@@ -4,8 +4,7 @@ title: 'Yi Zi Qian Jun'
 github: 'https://github.com/YuudachiXMMY/YiZiQianJun'
 external: ''
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - JavaScript
   - HTML/CSS
   - Python

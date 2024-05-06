@@ -4,10 +4,10 @@ title: 'PARA-CROSS'
 github: 'https://github.com/YuudachiXMMY/GlobalGameJam2022'
 external: 'https://github.com/YuudachiXMMY/GlobalGameJam2022/releases/latest'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Ren'Py
   - Python
+  - MySQL
 company: 'Global Gam Jam 2022'
 showInProjects: true
 ---

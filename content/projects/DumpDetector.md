@@ -4,8 +4,7 @@ title: 'DumpDetector'
 github: 'https://github.com/YuudachiXMMY/DumpDetector'
 external: ''
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - C/C++
   - Ren'Py
   - Python

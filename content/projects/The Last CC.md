@@ -4,8 +4,7 @@ title: 'The Last CC'
 github: ''
 external: 'https://v3.globalgamejam.org/2018/games/last-cc'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Adobe Photoshop
   - Adobe Audition
 company: 'Global Gam Jam 2018'

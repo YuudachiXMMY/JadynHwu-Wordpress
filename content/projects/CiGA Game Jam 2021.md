@@ -4,8 +4,7 @@ title: 'CiGA Game Jam 2021'
 github: 'https://github.com/YuudachiXMMY/CiGA-Game-Jam-2021'
 external: 'https://github.com/YuudachiXMMY/CiGA-Game-Jam-2021/releases/latest'
 tech:
-  - Unity
-  - C#
+  - Unity(C#)
   - Ren'Py
   - Python
 company: 'CiGA Game Jam 2021'
