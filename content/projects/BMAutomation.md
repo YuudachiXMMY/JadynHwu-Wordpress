@@ -5,6 +5,8 @@ github: 'https://github.com/YuudachiXMMY/BMAutomation'
 external: 'https://pypi.org/project/bmautomation/'
 tech:
   - Python
+  - PyPi
+  - MySQL
   - Test Automation
   - GPU Validation
   - CI/CD

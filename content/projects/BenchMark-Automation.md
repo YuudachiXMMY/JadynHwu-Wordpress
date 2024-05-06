@@ -5,6 +5,8 @@ github: 'https://github.com/YuudachiXMMY/BenchMark-Automation'
 external: 'https://github.com/YuudachiXMMY/BenchMark-Automation/releases/latest'
 tech:
   - Python
+  - PyPi
+  - MySQL
   - Test Automation
   - GPU Validation
   - CI/CD
