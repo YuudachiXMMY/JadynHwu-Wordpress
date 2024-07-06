@@ -4,7 +4,7 @@ title: 'Game Designer / Developer (Part-time)'
 company: 'Yuki Game'
 location: 'Remote'
 range: 'Jun 2018 – Oct 2020'
-url: 'https://starry.com/'
+url: 'https://www.cngal.org/entries/index/4967'
 ---
 
 - Collaborated with architecture team and worldwide performance analysis to comprehend product specifications and contribute to the development of new GPU architectures.

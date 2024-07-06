@@ -4,7 +4,7 @@ title: 'Senior Game Developer'
 company: '1982 Game'
 location: 'Northeastern University'
 range: 'Jul 2019 - Jan 2021'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.taptap.cn/developer/29517'
 ---
 
 - Developed innovative game mechanics for an online visual novel Gocha game, resulting in a successful release on major platforms.

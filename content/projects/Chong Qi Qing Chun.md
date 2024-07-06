@@ -13,4 +13,4 @@ company: 'East Normal University'
 showInProjects: false
 ---
 
-A situational creative learning software created by multilingual researchers for primary and secondary students.
+A situational creative language learning software created by multilingual researchers for primary and secondary students.
