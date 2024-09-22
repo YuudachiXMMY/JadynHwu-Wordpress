@@ -2,7 +2,7 @@
 date: '2019-01-01'
 title: 'Senior Game Developer'
 company: '1982 Game'
-location: 'Northeastern University'
+location: 'North America'
 range: 'Jul 2019 - Jan 2021'
 url: 'https://www.taptap.cn/developer/29517'
 ---

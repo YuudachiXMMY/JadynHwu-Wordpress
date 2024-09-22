@@ -3,7 +3,7 @@ date: '2023-08-01'
 title: 'Math and Science Teacher (Part-time)'
 company: 'VIA'
 location: 'Toronto, CA'
-range: 'Aug 2023 - Present'
+range: 'Aug 2023 - Aug 2024'
 url: 'https://www.viaschool.ca/'
 ---
 
